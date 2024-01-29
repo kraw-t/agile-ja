@@ -27,3 +27,7 @@ Jiraのプロジェクトボードを作成し、レストランを開店する�
 
 - それぞれの要件を満たしていることがわかるよう、必要な数のスクリーンショットを撮り、名前をわかりやすく変更した上で、プロジェクトフォルダー内の**screenshots**フォルダーに保存します。
 - ローカルでこれらの変更をステージング領域に追加してコミットし、GitHubリポジトリにプッシュします。
+
+## JIRA/Confluence URL
+- JIRA : https://kraw-t.atlassian.net/jira/
+- Confluence : https://kraw-t.atlassian.net/wiki/home
